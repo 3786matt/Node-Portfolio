@@ -1,0 +1,68 @@
+.img-circle {
+  	border-radius: 100px;
+  	border-width: 6px;
+  	border-color: #2C3E50;
+  	width: 300px;
+  	height: 450px;
+}
+
+.pics {
+	width: 360px;
+	height: 260px;
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+	
+}
+
+#contact {
+	background-color: beige;
+	width: 100%;
+}
+
+#contactForm {
+	background-color: white;
+	border-color: black;
+	text-align: center;
+}
+
+.img-responsive img-centered{
+	border-style: solid;
+	border-color: black;
+}
+/*
+.star-primary {
+	width: 300px;
+	height: 450px;
+}*/
+/*.modal-body {
+	width: 360px;
+	height: 260px;
+}*/
+
+#soon {
+	width: 630px;
+	height: 480px;
+
+}
+
+.pics1 {
+	position: relative;
+}
+
+.pics2 {
+	position: absolute; 
+	top: 80px;
+	left: 115px;
+	right:110px;
+	font-size: 30px;
+	color: #ffdb00;
+	text-shadow: -2px 0 black;
+	text-align: center;
+	
+}
+
+
+
+
+

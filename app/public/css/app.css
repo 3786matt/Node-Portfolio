@@ -1,0 +1,19 @@
+body {
+  /*background-color: red;*/
+  background-image: url("images/main3.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: black;
+  color: silver;
+  /*margin-right: auto;
+  margin-left: auto;*/
+}
+
+#main-button {
+  background-color: gray;
+}
+

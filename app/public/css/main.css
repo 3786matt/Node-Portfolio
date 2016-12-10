@@ -1,0 +1,79 @@
+body {
+  background-image: url("images/new1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page-header {
+  background-color: black;
+  color: silver;
+  text-align: center;
+  height: 150px;
+  font-size: 120px;
+  line-height: 250%;
+  margin-top: 0px;
+  font-size: 120px;
+  font-family: Courier;
+}
+
+#userName{
+  font-size: 25px;
+  width:30%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.qs{
+  opacity: .99;
+  font-size: 25px;
+
+}
+
+#main {
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom: 50px;
+  text-align: center;
+  background-color: silver;
+  opacity: .9;
+  width: 50%;
+}
+
+#Submit1{
+  width: 150px;
+  height: 50px;
+  background-color: gray;
+  font-size: 23px;
+  text-align: center;
+  margin-bottom: 50px;
+  /*margin-left: auto;
+  margin-right: auto;*/
+}
+/*html { 
+  background: url("images/new.jpeg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+.input-group {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 15px;
+  width: 50%;
+
+
+}
+
+#image-input {
+  padding-bottom: 15px;
+}
+
+#closeButton {
+  background-color: gray;
+
+}
